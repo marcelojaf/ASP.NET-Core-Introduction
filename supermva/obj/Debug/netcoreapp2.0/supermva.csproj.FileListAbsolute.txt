@@ -1,0 +1,10 @@
+c:\dev\ASP.NET-Core-Introduction\supermva\bin\Debug\netcoreapp2.0\supermva.deps.json
+c:\dev\ASP.NET-Core-Introduction\supermva\bin\Debug\netcoreapp2.0\supermva.runtimeconfig.json
+c:\dev\ASP.NET-Core-Introduction\supermva\bin\Debug\netcoreapp2.0\supermva.runtimeconfig.dev.json
+c:\dev\ASP.NET-Core-Introduction\supermva\bin\Debug\netcoreapp2.0\supermva.dll
+c:\dev\ASP.NET-Core-Introduction\supermva\bin\Debug\netcoreapp2.0\supermva.pdb
+c:\dev\ASP.NET-Core-Introduction\supermva\obj\Debug\netcoreapp2.0\supermva.csproj.CoreCompileInputs.cache
+c:\dev\ASP.NET-Core-Introduction\supermva\obj\Debug\netcoreapp2.0\supermva.AssemblyInfoInputs.cache
+c:\dev\ASP.NET-Core-Introduction\supermva\obj\Debug\netcoreapp2.0\supermva.AssemblyInfo.cs
+c:\dev\ASP.NET-Core-Introduction\supermva\obj\Debug\netcoreapp2.0\supermva.dll
+c:\dev\ASP.NET-Core-Introduction\supermva\obj\Debug\netcoreapp2.0\supermva.pdb

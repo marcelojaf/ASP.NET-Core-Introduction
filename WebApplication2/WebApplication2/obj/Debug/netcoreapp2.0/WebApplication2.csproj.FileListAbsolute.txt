@@ -1,0 +1,12 @@
+C:\dev\ASP.NET-Core-Introduction\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.deps.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.dev.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.dll
+C:\dev\ASP.NET-Core-Introduction\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.pdb
+C:\dev\ASP.NET-Core-Introduction\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csprojResolveAssemblyReference.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\dev\ASP.NET-Core-Introduction\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfoInputs.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfo.cs
+C:\dev\ASP.NET-Core-Introduction\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.dll
+C:\dev\ASP.NET-Core-Introduction\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.pdb

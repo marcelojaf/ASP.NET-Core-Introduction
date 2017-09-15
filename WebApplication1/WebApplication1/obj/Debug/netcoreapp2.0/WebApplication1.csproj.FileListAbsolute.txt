@@ -9,3 +9,5 @@ C:\dev\ASP.NET-Core-Introduction\WebApplication1\WebApplication1\obj\Debug\netco
 C:\dev\ASP.NET-Core-Introduction\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
 C:\dev\ASP.NET-Core-Introduction\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
 C:\dev\ASP.NET-Core-Introduction\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\dev\ASP.NET-Core-Introduction\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\ClassLibrary1.dll
+C:\dev\ASP.NET-Core-Introduction\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\ClassLibrary1.pdb

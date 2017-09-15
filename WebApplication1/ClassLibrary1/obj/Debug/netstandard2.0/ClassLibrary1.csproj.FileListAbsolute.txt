@@ -1,0 +1,9 @@
+C:\dev\ASP.NET-Core-Introduction\WebApplication1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+C:\dev\ASP.NET-Core-Introduction\WebApplication1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\dev\ASP.NET-Core-Introduction\WebApplication1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+C:\dev\ASP.NET-Core-Introduction\WebApplication1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+C:\dev\ASP.NET-Core-Introduction\WebApplication1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb

@@ -4746,6 +4746,16 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "ClassLibrary1/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        }
       }
     }
   },
@@ -12524,10 +12534,16 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/ClassLibrary1.csproj",
+      "msbuildProject": "../ClassLibrary1/ClassLibrary1.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "ClassLibrary1 >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.AspNetCore.StaticFiles >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
@@ -12565,7 +12581,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\dev\\ASP.NET-Core-Introduction\\WebApplication1\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "C:\\dev\\ASP.NET-Core-Introduction\\WebApplication1\\ClassLibrary1\\ClassLibrary1.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

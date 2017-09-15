@@ -29,7 +29,8 @@ namespace WebApplication1
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync($"Hello {env.EnvironmentName}!");
+                var name = ClassLibrary1.Class1.Greeting();
+                await context.Response.WriteAsync($"Hello {name}!");
             });
         }
     }

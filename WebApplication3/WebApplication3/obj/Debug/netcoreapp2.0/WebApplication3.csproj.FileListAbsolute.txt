@@ -1,0 +1,12 @@
+C:\dev\ASP.NET-Core-Introduction\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.deps.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.runtimeconfig.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.runtimeconfig.dev.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.dll
+C:\dev\ASP.NET-Core-Introduction\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.pdb
+C:\dev\ASP.NET-Core-Introduction\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.csprojResolveAssemblyReference.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.csproj.CoreCompileInputs.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\dev\ASP.NET-Core-Introduction\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.AssemblyInfoInputs.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.AssemblyInfo.cs
+C:\dev\ASP.NET-Core-Introduction\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.dll
+C:\dev\ASP.NET-Core-Introduction\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.pdb

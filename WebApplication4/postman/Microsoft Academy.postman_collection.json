@@ -1,0 +1,31 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Microsoft Academy",
+		"_postman_id": "965164ad-aa84-9b4f-7a63-c69b80dcb25b",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:57734/api/products",
+			"request": {
+				"url": "http://localhost:57734/api/products",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"Id\":\"4\",\n\t\"Name\":\"4K Television\",\n\t\"Quantity\":\"2\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

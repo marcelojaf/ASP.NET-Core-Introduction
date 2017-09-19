@@ -1,0 +1,11 @@
+C:\dev\ASP.NET-Core-Introduction\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.0\WebApplication4.deps.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.0\WebApplication4.runtimeconfig.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.0\WebApplication4.runtimeconfig.dev.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.0\WebApplication4.dll
+C:\dev\ASP.NET-Core-Introduction\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.csprojResolveAssemblyReference.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.AssemblyInfoInputs.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.AssemblyInfo.cs
+C:\dev\ASP.NET-Core-Introduction\WebApplication4\WebApplication4\bin\Debug\netcoreapp2.0\WebApplication4.pdb
+C:\dev\ASP.NET-Core-Introduction\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.dll
+C:\dev\ASP.NET-Core-Introduction\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.pdb

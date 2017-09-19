@@ -1,0 +1,11 @@
+C:\dev\ASP.NET-Core-Introduction\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.deps.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.runtimeconfig.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.runtimeconfig.dev.json
+C:\dev\ASP.NET-Core-Introduction\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.dll
+C:\dev\ASP.NET-Core-Introduction\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.pdb
+C:\dev\ASP.NET-Core-Introduction\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.csprojResolveAssemblyReference.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.csproj.CoreCompileInputs.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.AssemblyInfoInputs.cache
+C:\dev\ASP.NET-Core-Introduction\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.AssemblyInfo.cs
+C:\dev\ASP.NET-Core-Introduction\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.dll
+C:\dev\ASP.NET-Core-Introduction\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.pdb
